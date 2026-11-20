@@ -1,0 +1,3392 @@
+[
+  {
+    "name": "Z Auctions",
+    "country": "Spain",
+    "website": "https://www.liveauctioneers.com/auctioneer/7303/z-auctions/",
+    "domain": "liveauctioneers.com",
+    "status": "ok",
+    "coverage_class": "A (Aggregator / Platform)",
+    "platform": "LiveAuctioneers",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "208Auctions.com LLC",
+    "country": "United States",
+    "website": "https://www.208auctions.com",
+    "domain": "208auctions.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "33 Auction",
+    "country": "Singapore",
+    "website": "https://www.33auction.com",
+    "domain": "33auction.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "345 Auction",
+    "country": "United States",
+    "website": "https://345auction.com/",
+    "domain": "345auction.com",
+    "status": "platform",
+    "coverage_class": "A (Aggregator / Platform)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "888 Auctions",
+    "country": "Canada",
+    "website": "https://www.888auctions.com",
+    "domain": "888auctions.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "A10 by Artmark",
+    "country": "Romania",
+    "website": "https://www.artmark.ro",
+    "domain": "artmark.ro",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "AAG Auctioneers",
+    "country": "Netherlands",
+    "website": "https://www.aagauctioneers.com",
+    "domain": "aagauctioneers.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Drouot Digital",
+    "country": "France",
+    "website": "https://www.drouot.com",
+    "domain": "drouot.com",
+    "status": "ok",
+    "coverage_class": "A (Aggregator / Platform)",
+    "platform": "Drouot",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Wright Marshall Ltd",
+    "country": "United Kingdom",
+    "website": "https://www.the-saleroom.com/en-gb/auctioneers/w",
+    "domain": "the-saleroom.com",
+    "status": "ok",
+    "coverage_class": "A (Aggregator / Platform)",
+    "platform": "The Saleroom (ATG)",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Adam Partridge",
+    "country": "United Kingdom",
+    "website": "https://www.adampartridge.co.uk",
+    "domain": "adampartridge.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Adam's Auctioneers",
+    "country": "Ireland",
+    "website": "http://www.adams.ie",
+    "domain": "adams.ie",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Adams Amsterdam Auctions",
+    "country": "Netherlands",
+    "website": "http://www.adamsamsterdam.com",
+    "domain": "adamsamsterdam.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Ader",
+    "country": "France",
+    "website": "https://www.ader-paris.fr",
+    "domain": "ader-paris.fr",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Adjug'art (Brest)",
+    "country": "France",
+    "website": "https://adjugart.fr",
+    "domain": "adjugart.fr",
+    "status": "other",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Agra Art Auction House",
+    "country": "Poland",
+    "website": "https://www.agraart.pl",
+    "domain": "agraart.pl",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Aguttes",
+    "country": "France",
+    "website": "https://www.aguttes.com",
+    "domain": "aguttes.com",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Aidan Foley Auctions Ireland",
+    "country": "Ireland",
+    "website": "http://www.irishcountryhome.com",
+    "domain": "irishcountryhome.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Alaska Premier Auctions & Appraisals",
+    "country": "United States",
+    "website": "https://www.alaskapremierauctions.com325",
+    "domain": "alaskapremierauctions.com325",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "ALDE",
+    "country": "France",
+    "website": "https://www.alde.fr",
+    "domain": "alde.fr",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Alderfer Auction",
+    "country": "United States",
+    "website": "https://www.alderferauction.com",
+    "domain": "alderferauction.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Alex Cooper",
+    "country": "United States",
+    "website": "https://www.alexcooper.com",
+    "domain": "alexcooper.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Anderson & Garland",
+    "country": "United Kingdom",
+    "website": "https://www.andersonandgarland.com",
+    "domain": "andersonandgarland.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Ansorena",
+    "country": "Spain",
+    "website": "https://www.ansorena.com",
+    "domain": "ansorena.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Anticvarium",
+    "country": "Russia",
+    "website": "http://www.anticvarium.ru",
+    "domain": "anticvarium.ru",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "ANTIQON HOUSE OF FINE ART AND ANTIQUES",
+    "country": "France",
+    "website": "https://www.antiqon.com",
+    "domain": "antiqon.com",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Antonia Art Auction Ltd.",
+    "country": "Latvia",
+    "website": "https://www.antonioartauction.lv",
+    "domain": "antonioartauction.lv",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Arader Galleries California",
+    "country": "United States",
+    "website": "https://www.aradergalleries.com",
+    "domain": "aradergalleries.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Ardor Auctions",
+    "country": "Poland",
+    "website": "https://ardorauctions.pl",
+    "domain": "ardorauctions.pl",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Arenberg Auctions",
+    "country": "Belgium",
+    "website": "https://arenbergauctions.com/",
+    "domain": "arenbergauctions.com",
+    "status": "failing",
+    "coverage_class": "C (Discovery / Broken)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Arsani Auction",
+    "country": "Ukraine",
+    "website": "https://arsani.art",
+    "domain": "arsani.art",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Arsvalue",
+    "country": "Italy",
+    "website": "https://www.arsvalue.com",
+    "domain": "arsvalue.com",
+    "status": "other",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Art Leon - Part of the Desk Group s.r.o.",
+    "country": "Slovak Republic",
+    "website": "https://www.artleon.sk",
+    "domain": "artleon.sk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Art Research Paris",
+    "country": "France",
+    "website": "https://www.arp-auction.com",
+    "domain": "arp-auction.com",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Art Valorem",
+    "country": "France",
+    "website": "https://art-valorem.fr/",
+    "domain": "art-valorem.fr",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Art+Object",
+    "country": "New Zealand",
+    "website": "https://www.artandobject.co.nz",
+    "domain": "artandobject.co.nz",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Artcurial",
+    "country": "France",
+    "website": "https://www.artcurial.com",
+    "domain": "artcurial.com",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Artime Encheres",
+    "country": "France",
+    "website": "http://www.artime-encheres.fr",
+    "domain": "artime-encheres.fr",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Aste Boetto",
+    "country": "Italy",
+    "website": "https://www.boetto-auctions.com",
+    "domain": "boetto-auctions.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Auction House Zezula",
+    "country": "Czech Republic",
+    "website": "https://www.zezula.cz",
+    "domain": "zezula.cz",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Auction Lisbon",
+    "country": "Portugal",
+    "website": "https://auction-lisbon.com",
+    "domain": "auction-lisbon.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "auction.de",
+    "country": "Germany",
+    "website": "https://auction.de",
+    "domain": "auction.de",
+    "status": "other",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Auction.fr",
+    "country": "France",
+    "website": "https://auction.fr",
+    "domain": "auction.fr",
+    "status": "failing",
+    "coverage_class": "C (Discovery / Broken)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Auctionet",
+    "country": "Sweden",
+    "website": "https://auctionet.com",
+    "domain": "auctionet.com",
+    "status": "ok",
+    "coverage_class": "A (Aggregator / Platform)",
+    "platform": "Auctionet",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "AuctionZip",
+    "country": "United States",
+    "website": "https://www.auctionzip.com",
+    "domain": "auctionzip.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Auktionshaus Engel",
+    "country": "Germany",
+    "website": "https://www.auktionshaus-engel.de",
+    "domain": "auktionshaus-engel.de",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Auktionshaus Felzmann",
+    "country": "Germany",
+    "website": "https://www.felzmann.de",
+    "domain": "felzmann.de",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Auktionshaus Peege",
+    "country": "Germany",
+    "website": "https://www.peege.de",
+    "domain": "peege.de",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Auktionshaus Peter Kiefer",
+    "country": "Germany",
+    "website": "https://www.kiefer-auktion.de",
+    "domain": "kiefer-auktion.de",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Auktionshaus Rapp",
+    "country": "Switzerland",
+    "website": "http://www.rapp-auktionen.com",
+    "domain": "rapp-auktionen.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Auktionshaus Weidler",
+    "country": "Germany",
+    "website": "https://www.auktionshaus-weidler.de",
+    "domain": "auktionshaus-weidler.de",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Auktionshaus Wendl (Rudolstadt)",
+    "country": "Germany",
+    "website": "https://www.auktionshaus-wendl.de",
+    "domain": "auktionshaus-wendl.de",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Auktionshuset i Solna",
+    "country": "Sweden",
+    "website": "https://www.isolna.se",
+    "domain": "isolna.se",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Austria Auction Company",
+    "country": "Austria",
+    "website": "http://austriaauction.com",
+    "domain": "austriaauction.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Avanta Auctions",
+    "country": "United States",
+    "website": "https://www.avantaauction.com",
+    "domain": "avantaauction.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Balclis",
+    "country": "Spain",
+    "website": "https://www.balclis.com",
+    "domain": "balclis.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Baltic Auction Group",
+    "country": "Estonia",
+    "website": "https://bag-auction.com",
+    "domain": "bag-auction.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Bamfords (Derby)",
+    "country": "United Kingdom",
+    "website": "https://www.bamfords-auctions.co.uk",
+    "domain": "bamfords-auctions.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Barnebys",
+    "country": "Sweden",
+    "website": "https://www.barnebys.com",
+    "domain": "barnebys.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Barridoff Galleries",
+    "country": "United States",
+    "website": "https://www.barridoff.com",
+    "domain": "barridoff.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Bearnes Hampton & Littlewood",
+    "country": "United Kingdom",
+    "website": "https://auctions.bhandl.co.uk",
+    "domain": "auctions.bhandl.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Beaussant Lef\u00e8vre",
+    "country": "France",
+    "website": "https://beaussant-lefevre.com/ventes",
+    "domain": "beaussant-lefevre.com",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Bees Auction",
+    "country": "United States",
+    "website": "https://www.beesauction.com/",
+    "domain": "beesauction.com",
+    "status": "platform",
+    "coverage_class": "A (Aggregator / Platform)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Bellmans",
+    "country": "United Kingdom",
+    "website": "https://www.bellmans.co.uk",
+    "domain": "bellmans.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Berliner Auktionshaus",
+    "country": "Germany",
+    "website": "https://www.berliner-auktionshaus.de",
+    "domain": "berliner-auktionshaus.de",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Bernaerts Auctioneers BV",
+    "country": "Belgium",
+    "website": "https://www.bernaerts.eu",
+    "domain": "bernaerts.eu",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Berner's Auction Gallery, ltd.",
+    "country": "United States",
+    "website": "https://berners.com",
+    "domain": "berners.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Bertolami Fine Art",
+    "country": "Italy",
+    "website": "https://www.bertolamifineart.com",
+    "domain": "bertolamifineart.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "BidSpirit",
+    "country": "Israel",
+    "website": "https://it.bidspirit.com",
+    "domain": "it.bidspirit.com",
+    "status": "ok",
+    "coverage_class": "A (Aggregator / Platform)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Bidsquare",
+    "country": "United States",
+    "website": "https://bidsquare.com",
+    "domain": "bidsquare.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Bishop & Miller",
+    "country": "United Kingdom",
+    "website": "https://www.bishopandmillerauctions.co.uk",
+    "domain": "bishopandmillerauctions.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Blackwell Auctions",
+    "country": "United States",
+    "website": "https://www.blackwellauctions.com",
+    "domain": "blackwellauctions.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Blomqvist",
+    "country": "Norway",
+    "website": "https://www.blomqvist.no",
+    "domain": "blomqvist.no",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Blue Box Auction Gallery",
+    "country": "United States",
+    "website": "https://www.blueboxauction.com/",
+    "domain": "blueboxauction.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Bonhams",
+    "country": "United Kingdom",
+    "website": "https://csc.bonhams.com",
+    "domain": "csc.bonhams.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bonhams (Next.js)",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Bonhams New York",
+    "country": "United States",
+    "website": "https://www.bonhams.com",
+    "domain": "bonhams.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bonhams (Next.js)",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Brissonneau",
+    "country": "France",
+    "website": "https://www.brissonneau.com",
+    "domain": "brissonneau.com",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Britannica Auctions Ltd",
+    "country": "United Kingdom",
+    "website": "https://www.britannica-auctions.com",
+    "domain": "britannica-auctions.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Brunk Auctions",
+    "country": "United States",
+    "website": "https://www.brunkauctions.com",
+    "domain": "brunkauctions.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Bruun Rasmussen",
+    "country": "Denmark",
+    "website": "https://www.bruun-rasmussen.dk",
+    "domain": "bruun-rasmussen.dk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Bubb Kuyper",
+    "country": "Netherlands",
+    "website": "https://www.bubbkuyper.com",
+    "domain": "bubbkuyper.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Bukowskis",
+    "country": "Sweden",
+    "website": "https://www.bukowskis.com",
+    "domain": "bukowskis.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Burstow & Hewett",
+    "country": "United Kingdom",
+    "website": "https://www.burstowandhewett.co.uk",
+    "domain": "burstowandhewett.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "C&T Auctioneers",
+    "country": "United Kingdom",
+    "website": "https://www.candtauctions.co.uk",
+    "domain": "candtauctions.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Cadmore Auctions",
+    "country": "United Kingdom",
+    "website": "https://www.cadmoreauctions.co.uk",
+    "domain": "cadmoreauctions.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Canterbury Auction Galleries",
+    "country": "United Kingdom",
+    "website": "https://www.canterbury-auction-galleries.co.uk",
+    "domain": "canterbury-auction-galleries.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Capitoliumart s.r.l.",
+    "country": "Italy",
+    "website": "https://www.capitoliumart.it",
+    "domain": "capitoliumart.it",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Carn Brea Auctions",
+    "country": "United Kingdom",
+    "website": "https://www.carnbreaauctions.co.uk",
+    "domain": "carnbreaauctions.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Catawiki",
+    "country": "Netherlands",
+    "website": "https://www.catawiki.com",
+    "domain": "catawiki.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Catherine Southon",
+    "country": "United Kingdom",
+    "website": "https://www.catherinesouthon.co.uk",
+    "domain": "catherinesouthon.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Cedar Valley Auction",
+    "country": "United States",
+    "website": "https://cedarvalleyauction.com",
+    "domain": "cedarvalleyauction.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Chan & Scott Auction House",
+    "country": "Sweden",
+    "website": "https://www.chanandscott.com",
+    "domain": "chanandscott.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Chayette & Cheval",
+    "country": "France",
+    "website": "https://chayette-cheval.com/prochaines-ventes",
+    "domain": "chayette-cheval.com",
+    "status": "empty",
+    "coverage_class": "C (Discovery / Broken)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Cheffins",
+    "country": "United Kingdom",
+    "website": "https://www.cheffins.co.uk",
+    "domain": "cheffins.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Chiswick Auctions",
+    "country": "United Kingdom",
+    "website": "https://www.chiswickauctions.co.uk",
+    "domain": "chiswickauctions.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Chorley's",
+    "country": "United Kingdom",
+    "website": "https://www.chorleys.com",
+    "domain": "chorleys.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Christie's",
+    "country": "United Kingdom",
+    "website": "https://www.christies.com",
+    "domain": "christies.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Clars",
+    "country": "United States",
+    "website": "https://www.clars.com",
+    "domain": "clars.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Claydon Auctioneers",
+    "country": "United Kingdom",
+    "website": "https://www.claydonauctioneers.com",
+    "domain": "claydonauctioneers.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Clumber Auction House",
+    "country": "United Kingdom",
+    "website": "https://clumberauctionhouse.com/",
+    "domain": "clumberauctionhouse.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Copages Auction Paris",
+    "country": "France",
+    "website": "http://www.copages-auction.com",
+    "domain": "copages-auction.com",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Copley Fine Art",
+    "country": "United States",
+    "website": "https://www.copleyart.com",
+    "domain": "copleyart.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Cordy's",
+    "country": "New Zealand",
+    "website": "https://www.cordys.co.nz",
+    "domain": "cordys.co.nz",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Cornette de Saint Cyr",
+    "country": "France",
+    "website": "https://www.cornette-saintcyr.com",
+    "domain": "cornette-saintcyr.com",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Coronari Auctions",
+    "country": "Belgium",
+    "website": "http://www.coronariauctions.com",
+    "domain": "coronariauctions.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Cotswold Auction Co.",
+    "country": "United Kingdom",
+    "website": "https://www.cotswoldauction.com",
+    "domain": "cotswoldauction.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Coutau-B\u00e9garie",
+    "country": "France",
+    "website": "https://www.coutaubegarie.com",
+    "domain": "coutaubegarie.com",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Cowley Abbott",
+    "country": "Canada",
+    "website": "https://cowleyabbott.ca",
+    "domain": "cowleyabbott.ca",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Crescent City Auction Gallery",
+    "country": "United States",
+    "website": "https://www.crescentcityauctiongallery.com",
+    "domain": "crescentcityauctiongallery.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Criterion Auctioneers",
+    "country": "United Kingdom",
+    "website": "https://www.criterion-auctioneers.com",
+    "domain": "criterion-auctioneers.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Cuttlestones",
+    "country": "United Kingdom",
+    "website": "https://www.cuttlestones.co.uk",
+    "domain": "cuttlestones.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Daguerre",
+    "country": "France",
+    "website": "https://www.daguerre.fr",
+    "domain": "daguerre.fr",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Darwen Auctioneers",
+    "country": "United Kingdom",
+    "website": "https://www.darwenauctions.co.uk",
+    "domain": "darwenauctions.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "David Duggleby (Scarborough/Whitby)",
+    "country": "United Kingdom",
+    "website": "https://www.davidduggleby.com",
+    "domain": "davidduggleby.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Dawsons Auctioneers",
+    "country": "United Kingdom",
+    "website": "https://www.dawsonsauctions.co.uk",
+    "domain": "dawsonsauctions.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "De Baecque",
+    "country": "France",
+    "website": "https://www.debaecque.fr",
+    "domain": "debaecque.fr",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "De Vuyst",
+    "country": "Belgium",
+    "website": "https://www.de-vuyst.com",
+    "domain": "de-vuyst.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Delon-Hoebanx",
+    "country": "France",
+    "website": "https://www.delon-hoebanx.com",
+    "domain": "delon-hoebanx.com",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Derksen Veilingbedrijf",
+    "country": "Netherlands",
+    "website": "https://www.derksen-veilingbedrijf.nl",
+    "domain": "derksen-veilingbedrijf.nl",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Desa Unicum",
+    "country": "Poland",
+    "website": "https://bid.desa.pl",
+    "domain": "bid.desa.pl",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Deutscher and Hackett",
+    "country": "Australia",
+    "website": "https://www.deutscherandhackett.com",
+    "domain": "deutscherandhackett.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "DIGARD AUCTION",
+    "country": "France",
+    "website": "http://www.digard.com",
+    "domain": "digard.com",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Dobiaschofsky",
+    "country": "Switzerland",
+    "website": "https://www.dobiaschofsky-bern-but-german.de",
+    "domain": "dobiaschofsky-bern-but-german.de",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Doncaster Auction Centre",
+    "country": "United Kingdom",
+    "website": "https://www.doncaster-auctions.co.uk",
+    "domain": "doncaster-auctions.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Dorotheum",
+    "country": "Austria",
+    "website": "https://www.dorotheum-germany-office.de",
+    "domain": "dorotheum-germany-office.de",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Doyle",
+    "country": "United States",
+    "website": "https://www.doyle.com",
+    "domain": "doyle.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Dreweatts",
+    "country": "United Kingdom",
+    "website": "https://www.dreweatts.com",
+    "domain": "dreweatts.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Interencheres",
+    "country": "France",
+    "website": "https://interencheres.com",
+    "domain": "interencheres.com",
+    "status": "ok",
+    "coverage_class": "A (Aggregator / Platform)",
+    "platform": "Interencheres",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Duke's",
+    "country": "United Kingdom",
+    "website": "https://www.dukes-auctions.com",
+    "domain": "dukes-auctions.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "DuMouchelles",
+    "country": "United States",
+    "website": "https://live.dumoart.com",
+    "domain": "live.dumoart.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Dunbar Sloane",
+    "country": "New Zealand",
+    "website": "https://www.dunbarsloane.com",
+    "domain": "dunbarsloane.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Dur\u00e1n Arte y Subastas",
+    "country": "Spain",
+    "website": "https://duran-subastas.com",
+    "domain": "duran-subastas.com",
+    "status": "empty",
+    "coverage_class": "C (Discovery / Broken)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Dynasty",
+    "country": "Israel",
+    "website": "https://www.dynasty-auctions.com",
+    "domain": "dynasty-auctions.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "easyliveauction",
+    "country": "United Kingdom",
+    "website": "https://www.easyliveauction.com/catalogue/?searchTerm=australia&searchOption=3",
+    "domain": "easyliveauction.com",
+    "status": "ok",
+    "coverage_class": "A (Aggregator / Platform)",
+    "platform": "EasyLiveAuction",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Elstob Auctioneers",
+    "country": "United Kingdom",
+    "website": "https://www.elstob.co.uk",
+    "domain": "elstob.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Elwoods Auction",
+    "country": "United States",
+    "website": "https://www.elwoodsauctioneering.com/",
+    "domain": "elwoodsauctioneering.com",
+    "status": "platform",
+    "coverage_class": "A (Aggregator / Platform)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Ench\u00e8res Maisons-Laffitte",
+    "country": "France",
+    "website": "https://www.yvelines-encheres.com/",
+    "domain": "yvelines-encheres.com",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Expertisez.com",
+    "country": "France",
+    "website": "https://www.expertisez.com",
+    "domain": "expertisez.com",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Fairfield Auction",
+    "country": "United States",
+    "website": "https://www.fairfieldauction.com",
+    "domain": "fairfieldauction.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Falkkloos Auktioner",
+    "country": "Sweden",
+    "website": "https://www.falkkloos.se",
+    "domain": "falkkloos.se",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Farran",
+    "country": "France",
+    "website": "https://www.farran-encheres.com",
+    "domain": "farran-encheres.com",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "FauveParis",
+    "country": "France",
+    "website": "https://www.fauveparis.com",
+    "domain": "fauveparis.com",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Fellows",
+    "country": "United Kingdom",
+    "website": "https://www.fellows-auctioneers.co.uk",
+    "domain": "fellows-auctioneers.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Fernando Dur\u00e1n",
+    "country": "Spain",
+    "website": "https://fernandoduran.com/es/auctions/index",
+    "domain": "fernandoduran.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "FF Gleaton Auctioneers",
+    "country": "United States",
+    "website": "https://gleatons.com",
+    "domain": "gleatons.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Finarte",
+    "country": "Italy",
+    "website": "https://www.finarte.it",
+    "domain": "finarte.it",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Fine Antiques Prague",
+    "country": "Czech Republic",
+    "website": "http://fineantiquesprague.com",
+    "domain": "fineantiquesprague.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Fisher's Auction Services, Inc.",
+    "country": "United States",
+    "website": "https://www",
+    "domain": "www",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Flanders Auctions",
+    "country": "France",
+    "website": "http://flandersauctions.be",
+    "domain": "flandersauctions.be",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Folk Art Auctions",
+    "country": "United States",
+    "website": "https://www.folkartauctions.com",
+    "domain": "folkartauctions.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Fontaine's Auction",
+    "country": "United States",
+    "website": "https://www.fontainesauction.com",
+    "domain": "fontainesauction.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Forum Auctions (London)",
+    "country": "United Kingdom",
+    "website": "https://www.forum-auctions-london.co.uk",
+    "domain": "forum-auctions-london.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Francois Epin Auction",
+    "country": "France",
+    "website": "https://www.francoisepinauction.com",
+    "domain": "francoisepinauction.com",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Galerie Moenius AG",
+    "country": "Switzerland",
+    "website": "https://www.moenius.ch",
+    "domain": "moenius.ch",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Gen\u00e8ve Ench\u00e8res",
+    "country": "Switzerland",
+    "website": "https://www.geneve-encheres.ch",
+    "domain": "geneve-encheres.ch",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Gigarte Aste",
+    "country": "Italy",
+    "website": "https://www.gigarte.com",
+    "domain": "gigarte.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Gildings",
+    "country": "United Kingdom",
+    "website": "https://www.gildings.co.uk",
+    "domain": "gildings.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "GOLDFIELD AUCTION",
+    "country": "Luxemburg",
+    "website": "http://www.goldfield.auction",
+    "domain": "goldfield.auction",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Gordon Gallery",
+    "country": "Israel",
+    "website": "https://www.gordongallery.co.il",
+    "domain": "gordongallery.co.il",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Gorringe's",
+    "country": "United Kingdom",
+    "website": "https://www.gorringes.co.uk",
+    "domain": "gorringes.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Grand Auction House",
+    "country": "United Kingdom",
+    "website": "https://www.grandauctionhouse.com",
+    "domain": "grandauctionhouse.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Grant Cole Decoy Auctions",
+    "country": "United States",
+    "website": "https://www.gcdecoys.com/",
+    "domain": "gcdecoys.com",
+    "status": "platform",
+    "coverage_class": "A (Aggregator / Platform)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Grisebach",
+    "country": "Germany",
+    "website": "https://www.villa-grisebach.de",
+    "domain": "villa-grisebach.de",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Grogan & Co",
+    "country": "United States",
+    "website": "https://www.groganco.com/",
+    "domain": "groganco.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Gros & Delettrez",
+    "country": "France",
+    "website": "https://www.gros-delettrez.com",
+    "domain": "gros-delettrez.com",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Guilhou - H\u00f4tel des Ventes",
+    "country": "France",
+    "website": "https://www.guilhou.fr",
+    "domain": "guilhou.fr",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Hal Hunt Auctions",
+    "country": "United States",
+    "website": "https://www.halhuntauctions.com",
+    "domain": "halhuntauctions.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Halls",
+    "country": "United Kingdom",
+    "website": "https://www.halls-fine-art.co.uk",
+    "domain": "halls-fine-art.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Hammer Time Auctions",
+    "country": "United Kingdom",
+    "website": "https://www.hammer-time-auctions.co.uk",
+    "domain": "hammer-time-auctions.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Hampel",
+    "country": "Germany",
+    "website": "https://www.hampel-auctions.com",
+    "domain": "hampel-auctions.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Hansons",
+    "country": "United Kingdom",
+    "website": "https://www.hansons-auctioneers.co.uk",
+    "domain": "hansons-auctioneers.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Hargesheimer",
+    "country": "Germany",
+    "website": "https://www.kunstauktionen-duesseldorf.de/",
+    "domain": "kunstauktionen-duesseldorf.de",
+    "status": "other",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Hawaiian Arizona Corporation",
+    "country": "United States",
+    "website": "https://www.myeranch.com",
+    "domain": "myeranch.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "HCP Auctions",
+    "country": "United Kingdom",
+    "website": "https://www.hcp-auctions.co.uk",
+    "domain": "hcp-auctions.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Heffel Canada (BW)",
+    "country": "Canada",
+    "website": "https://www.heffel.com",
+    "domain": "heffel.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Henry's Auktionshaus AG",
+    "country": "Germany",
+    "website": "https://www.henrys.de",
+    "domain": "henrys.de",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Heritage Auctions",
+    "country": "United States",
+    "website": "https://www.ha.com",
+    "domain": "ha.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "HiBid",
+    "country": "United States",
+    "website": "https://hibid.com",
+    "domain": "hibid.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "HiBid",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Hindman (incl. Freeman's)",
+    "country": "United States",
+    "website": "https://www.hindmanauctions.com",
+    "domain": "hindmanauctions.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Holler and Hammer LLC",
+    "country": "United States",
+    "website": "https://hollerandhammerauctions.com/",
+    "domain": "hollerandhammerauctions.com",
+    "status": "platform",
+    "coverage_class": "A (Aggregator / Platform)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Hutchinson Scott (Skipton)",
+    "country": "United Kingdom",
+    "website": "https://www.hutchinson-scott.co.uk",
+    "domain": "hutchinson-scott.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "im Kinsky",
+    "country": "Austria",
+    "website": "https://auction.imkinsky.com",
+    "domain": "auction.imkinsky.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "International Art Centre",
+    "country": "New Zealand",
+    "website": "https://www.internationalartcentre.com",
+    "domain": "internationalartcentre.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "International Autograph Auctions Europe S.L.",
+    "country": "Spain",
+    "website": "https://www.internationalautographauc",
+    "domain": "internationalautographauc",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Invaluable",
+    "country": "United States",
+    "website": "https://www.invaluable.com",
+    "domain": "invaluable.com",
+    "status": "ok",
+    "coverage_class": "A (Aggregator / Platform)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Irita Marriott Auctioneers & Valuers",
+    "country": "United Kingdom",
+    "website": "https://www.irita-marriott.co.uk",
+    "domain": "irita-marriott.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Isbilya Subastas",
+    "country": "Spain",
+    "website": "https://www.isbilya.com",
+    "domain": "isbilya.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Ishtar",
+    "country": "Israel",
+    "website": "https://www.ishtar-auctions.com",
+    "domain": "ishtar-auctions.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Ivoire - H\u00f4tel des Ventes",
+    "country": "France",
+    "website": "https://www.ivoire.fr",
+    "domain": "ivoire.fr",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Jart Auctions",
+    "country": "Czech Republic",
+    "website": "http://www.jartauctions.com",
+    "domain": "jartauctions.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Jeffrey S. Evans & Associates",
+    "country": "United States",
+    "website": "https://www.jeffreyevans.com",
+    "domain": "jeffreyevans.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "John Nicholson Auctioneers",
+    "country": "United Kingdom",
+    "website": "https://www.johnnicholsonauctioneers.co.uk",
+    "domain": "johnnicholsonauctioneers.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Kanerz Art",
+    "country": "Luxemburg",
+    "website": "https://www.encheres-luxembourg.lu",
+    "domain": "encheres-luxembourg.lu",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Kapandji Morhange",
+    "country": "France",
+    "website": "https://www.kapandji-morhange.com",
+    "domain": "kapandji-morhange.com",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Karl & Faber",
+    "country": "Germany",
+    "website": "https://www.karl-faber.de",
+    "domain": "karl-faber.de",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Katz Auction",
+    "country": "Czech Republic",
+    "website": "https://www.katzauction.com",
+    "domain": "katzauction.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Kedem",
+    "country": "Israel",
+    "website": "https://www.kedem-auctions.com",
+    "domain": "kedem-auctions.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Ketterer Kunst",
+    "country": "Germany",
+    "website": "https://www.kettererkunst.com",
+    "domain": "kettererkunst.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Keys",
+    "country": "United Kingdom",
+    "website": "https://www.keysauctions.co.uk",
+    "domain": "keysauctions.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Kieselbach Art Gallery",
+    "country": "Hungary",
+    "website": "http://www.kieselbach.hu",
+    "domain": "kieselbach.hu",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "King David",
+    "country": "Israel",
+    "website": "https://www.kingdavidauctions.com",
+    "domain": "kingdavidauctions.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Kohn - H\u00f4tel des Ventes",
+    "country": "France",
+    "website": "https://www.kohn.fr",
+    "domain": "kohn.fr",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "L'Autographe Ltd",
+    "country": "United Kingdom",
+    "website": "https://www.lautographe.com",
+    "domain": "lautographe.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "L'Huillier & Associ\u00e9s - Ventes aux ench\u00e8res (via Interencheres)",
+    "country": "France",
+    "website": "https://www.lhuillierparis.com/",
+    "domain": "lhuillierparis.com",
+    "status": "platform",
+    "coverage_class": "A (Aggregator / Platform)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Lacy Scott & Knight",
+    "country": "United Kingdom",
+    "website": "https://www.lacy-scott-knight.co.uk",
+    "domain": "lacy-scott-knight.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Lamas Bola\u00f1o Spain lamasbolano Segre",
+    "country": "Spain",
+    "website": "https://lamasbolanosubastas.com",
+    "domain": "lamasbolanosubastas.com",
+    "status": "empty",
+    "coverage_class": "C (Discovery / Broken)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Lauritz",
+    "country": "Denmark",
+    "website": "https://www.lauritz.com",
+    "domain": "lauritz.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Lawrences Auctioneers",
+    "country": "United Kingdom",
+    "website": "https://www.lawrences-auctioneers.co.uk",
+    "domain": "lawrences-auctioneers.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Le Brech & Associes",
+    "country": "France",
+    "website": "https://www.lebrech-associes.com",
+    "domain": "lebrech-associes.com",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Le Floc'h",
+    "country": "France",
+    "website": "https://www.lefloch-drouot.fr",
+    "domain": "lefloch-drouot.fr",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Drouot",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Lehner Kunstauktionen",
+    "country": "Austria",
+    "website": "https://www.lehnerkunstauktionen.at",
+    "domain": "lehnerkunstauktionen.at",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Leighton Hall Auctions (Carnforth, Lancs)",
+    "country": "United Kingdom",
+    "website": "https://www.leighton-hall-auctions.co.uk",
+    "domain": "leighton-hall-auctions.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Leitz Photographica Auction",
+    "country": "Austria",
+    "website": "https://www.leitz-auction.com",
+    "domain": "leitz-auction.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Leland Little United States lelandlittle Leonard Auction",
+    "country": "United States",
+    "website": "https://www.lelandlittle.com",
+    "domain": "lelandlittle.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Lempertz",
+    "country": "Germany",
+    "website": "https://www.lempertz.de",
+    "domain": "lempertz.de",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Leo Spik",
+    "country": "Germany",
+    "website": "https://www.leo-spik.de",
+    "domain": "leo-spik.de",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Leonard Auction",
+    "country": "United States",
+    "website": "https://www.leonardauction.com",
+    "domain": "leonardauction.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Lewis and Maese Antiques and Auction",
+    "country": "United States",
+    "website": "https://lmauctionco.com",
+    "domain": "lmauctionco.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Limoges Encheres",
+    "country": "France",
+    "website": "https://www.limogesencheres.com",
+    "domain": "limogesencheres.com",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Litografias.net",
+    "country": "Spain",
+    "website": "https://www.litografias.net",
+    "domain": "litografias.net",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "LLB AUCTION",
+    "country": "Luxemburg",
+    "website": "https://llb-auction.com",
+    "domain": "llb-auction.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Lockdales (Martlesham, Suffolk)",
+    "country": "United Kingdom",
+    "website": "https://www.lockdales.co.uk",
+    "domain": "lockdales.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Lot-tissimo",
+    "country": "Germany",
+    "website": "https://www.lot-tissimo.com",
+    "domain": "lot-tissimo.com",
+    "status": "ok",
+    "coverage_class": "A (Aggregator / Platform)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Lots in the Attic LLC",
+    "country": "United States",
+    "website": "https://lotsintheattic.com/",
+    "domain": "lotsintheattic.com",
+    "status": "platform",
+    "coverage_class": "A (Aggregator / Platform)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Luckner's Auctioneers",
+    "country": "United Kingdom",
+    "website": "https://www.luckner.co.uk",
+    "domain": "luckner.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Lux-Auction",
+    "country": "Luxemburg",
+    "website": "https://www.lux-auction.com",
+    "domain": "lux-auction.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Lyon & Turnbull",
+    "country": "United Kingdom",
+    "website": "https://www.lyonandturnbull.com",
+    "domain": "lyonandturnbull.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Maison R&C Commissaires-Priseurs Associes",
+    "country": "France",
+    "website": "http://www.maisonrc.com",
+    "domain": "maisonrc.com",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "MAISON VERNEUIL",
+    "country": "France",
+    "website": "https://www.maison-verneuil.com",
+    "domain": "maison-verneuil.com",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Mallams",
+    "country": "United Kingdom",
+    "website": "https://www.mallams.co.uk",
+    "domain": "mallams.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Marois - H\u00f4tel des Ventes",
+    "country": "France",
+    "website": "https://www.marois.fr",
+    "domain": "marois.fr",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Marsh Barton Auctions",
+    "country": "United Kingdom",
+    "website": "https://www.marsh-barton-auctions.co.uk",
+    "domain": "marsh-barton-auctions.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Mathieu - H\u00f4tel des Ventes",
+    "country": "France",
+    "website": "https://www.mathieu.fr",
+    "domain": "mathieu.fr",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Matsart",
+    "country": "Israel",
+    "website": "https://www.matsart.co.il",
+    "domain": "matsart.co.il",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Maurice Auction (Fontainebleau/Nemours)",
+    "country": "France",
+    "website": "https://mauriceauction.com/",
+    "domain": "mauriceauction.com",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "McClain's Ultimate Attic",
+    "country": "United States",
+    "website": "https://www.mcclainauctionshawaii.com1",
+    "domain": "mcclainauctionshawaii.com1",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "McTear's",
+    "country": "United Kingdom",
+    "website": "https://www.mctear-s.co.uk",
+    "domain": "mctear-s.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Mellors & Kirk",
+    "country": "United Kingdom",
+    "website": "https://www.mellors-kirk.co.uk",
+    "domain": "mellors-kirk.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Mike Nichols Auctions",
+    "country": "United States",
+    "website": "https://www.mikenicholsauctions.comWarren,",
+    "domain": "mikenicholsauctions.comwarren,",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Millon",
+    "country": "France",
+    "website": "https://www.millon.com",
+    "domain": "millon.com",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Mirabaud Mercier",
+    "country": "France",
+    "website": "https://www.mirabaud-mercier.com",
+    "domain": "mirabaud-mercier.com",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Monaco Legend Auctions",
+    "country": "Monaco",
+    "website": "https://monacolegendauctions.com",
+    "domain": "monacolegendauctions.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Montefiore",
+    "country": "Israel",
+    "website": "https://www.montefiore.co.il",
+    "domain": "montefiore.co.il",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Morgan O'Driscoll",
+    "country": "Ireland",
+    "website": "https://www.morganodriscoll.com/",
+    "domain": "morganodriscoll.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Morphets (Harrogate)",
+    "country": "United Kingdom",
+    "website": "https://www.morphets.co.uk",
+    "domain": "morphets.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Moulet - H\u00f4tel des Ventes",
+    "country": "France",
+    "website": "https://www.moulet.fr",
+    "domain": "moulet.fr",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "MutualArt",
+    "country": "United Kingdom",
+    "website": "https://www.mutualart.com",
+    "domain": "mutualart.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Nagel",
+    "country": "Germany",
+    "website": "https://www.nagel-auktionen-stuttgart.de",
+    "domain": "nagel-auktionen-stuttgart.de",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "NCAG",
+    "country": "France",
+    "website": "https://www.ncag-encheres.com",
+    "domain": "ncag-encheres.com",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Neal Auction Company",
+    "country": "United States",
+    "website": "https://www.nealauction.com",
+    "domain": "nealauction.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Nest Egg Auctions",
+    "country": "United States",
+    "website": "https://www.nesteggauctions.com",
+    "domain": "nesteggauctions.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Neumeister",
+    "country": "Germany",
+    "website": "https://www.neumeister-kunstauktionen.de",
+    "domain": "neumeister-kunstauktionen.de",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "NiagaraAuctions.ca",
+    "country": "Canada",
+    "website": "https://niagaraauctions.ca",
+    "domain": "niagaraauctions.ca",
+    "status": "platform",
+    "coverage_class": "A (Aggregator / Platform)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Nomisma Spa",
+    "country": "Italy",
+    "website": "https://www.nomisma.eu",
+    "domain": "nomisma.eu",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Noonans",
+    "country": "United Kingdom",
+    "website": "https://www.noonans.co.uk",
+    "domain": "noonans.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Numartemis Auctions",
+    "country": "France",
+    "website": "https://www.numartemis.com",
+    "domain": "numartemis.com",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Oldtimer Galerie Toffen, The Swiss Auctioneers",
+    "country": "Switzerland",
+    "website": "https://www.oldtimergalerie.ch",
+    "domain": "oldtimergalerie.ch",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Onslows Auctioneers",
+    "country": "United Kingdom",
+    "website": "https://www.onslows.co.uk",
+    "domain": "onslows.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Orrill's Auction Services",
+    "country": "United States",
+    "website": "https://www.orrillsauction.com/",
+    "domain": "orrillsauction.com",
+    "status": "platform",
+    "coverage_class": "A (Aggregator / Platform)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Osenat",
+    "country": "France",
+    "website": "https://www.osenat.com",
+    "domain": "osenat.com",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "OXIO",
+    "country": "France",
+    "website": "https://www.oxio-encheres.com",
+    "domain": "oxio-encheres.com",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Paragon Auctions Florida United Stateshttps://www.liveauctioneers.com/en-gb/auctioneer/7458/paragon-auctions/ 1407 E Call St., Tallahassee, FL 32301, USA Bramlett & Co.",
+    "country": "United States",
+    "website": "https://www.bramlettandco.com",
+    "domain": "bramlettandco.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Parker Fine Art Auctions",
+    "country": "United Kingdom",
+    "website": "https://www.parkerfineartauctions.com",
+    "domain": "parkerfineartauctions.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Parker Fine Art Auctions (Farnham)",
+    "country": "United Kingdom",
+    "website": "https://www.parkerfineartauctions.co.uk",
+    "domain": "parkerfineartauctions.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Peebles Auction House",
+    "country": "United Kingdom",
+    "website": "https://www.peeblesauctionhouse.co.uk",
+    "domain": "peeblesauctionhouse.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Pescheteau-Badin",
+    "country": "France",
+    "website": "https://pescheteau-badin.com/ventes-a-venir",
+    "domain": "pescheteau-badin.com",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Phillips",
+    "country": "United Kingdom",
+    "website": "https://www.phillips.com",
+    "domain": "phillips.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Piasa",
+    "country": "France",
+    "website": "https://www.piasa.fr",
+    "domain": "piasa.fr",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Pickle Hill Auction LLC",
+    "country": "United States",
+    "website": "https://www.picklehill.auction/",
+    "domain": "picklehill.auction",
+    "status": "platform",
+    "coverage_class": "A (Aggregator / Platform)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Pierre Berg\u00e9 & Associ\u00e9s",
+    "country": "France",
+    "website": "https://www.pba-auctions.com",
+    "domain": "pba-auctions.com",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Pook & Pook",
+    "country": "United States",
+    "website": "https://live.pookandpook.com",
+    "domain": "live.pookandpook.com",
+    "status": "empty",
+    "coverage_class": "C (Discovery / Broken)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Qing-Art",
+    "country": "Netherlands",
+    "website": "https://qing-art.com",
+    "domain": "qing-art.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Quittenbaum",
+    "country": "Germany",
+    "website": "https://www.quittenbaum.de",
+    "domain": "quittenbaum.de",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Rago",
+    "country": "United States",
+    "website": "https://www.ragoarts.com",
+    "domain": "ragoarts.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Ramsay Cornish (Edinburgh)",
+    "country": "United Kingdom",
+    "website": "https://www.ramsaycornish.com",
+    "domain": "ramsaycornish.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Reeman Dansie",
+    "country": "United Kingdom",
+    "website": "https://www.reeman-dansie.co.uk",
+    "domain": "reeman-dansie.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Rennes Ench\u00e8res",
+    "country": "France",
+    "website": "https://bretagne-encheres.com/ventes-futures",
+    "domain": "bretagne-encheres.com",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Rich Penn Auctions",
+    "country": "United States",
+    "website": "https://www.richpennauctions.com",
+    "domain": "richpennauctions.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Richard Winterton",
+    "country": "United Kingdom",
+    "website": "https://www.richard-winterton-auctioneers.co.uk",
+    "domain": "richard-winterton-auctioneers.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Ripley Auctions",
+    "country": "United States",
+    "website": "https://www.ripleyauctions.com",
+    "domain": "ripleyauctions.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Roseberys",
+    "country": "United Kingdom",
+    "website": "https://www.roseberys.co.uk",
+    "domain": "roseberys.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Rossini",
+    "country": "France",
+    "website": "https://www.rossini.fr",
+    "domain": "rossini.fr",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Schwenke Auctioneers",
+    "country": "United States",
+    "website": "https://www.woodburyauction.com",
+    "domain": "woodburyauction.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Setdart Auction House",
+    "country": "Spain",
+    "website": "https://www.setdart.com",
+    "domain": "setdart.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Shannon's",
+    "country": "United States",
+    "website": "https://www.shannons.com",
+    "domain": "shannons.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Shannon's Fine Art Auctioneers Connecticut United Stateshttps://www.liveauctioneers.com/en-gb/auctioneer/6759/shannon-s-fine-art-auctioneers/ https://www.shannons.com 49 Research Dr, Milford, CT 06460, USAStallion Hill Gallery",
+    "country": "United States",
+    "website": "https://www.antiqueprintsinc.com",
+    "domain": "antiqueprintsinc.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Sheppard's Irish Auction House",
+    "country": "Ireland",
+    "website": "http://www.sheppards.ie",
+    "domain": "sheppards.ie",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Sieren Auction Sales",
+    "country": "United States",
+    "website": "https://sierenauctionsales.com/",
+    "domain": "sierenauctionsales.com",
+    "status": "platform",
+    "coverage_class": "A (Aggregator / Platform)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Sotheby's",
+    "country": "United Kingdom",
+    "website": "https://www.sothebys.com/en",
+    "domain": "sothebys.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Square and Compass Auctioneers",
+    "country": "United Kingdom",
+    "website": "https://www.square-compass-auctions.co.uk",
+    "domain": "square-compass-auctions.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Stair Galleries",
+    "country": "United States",
+    "website": "https://www.stairgalleries.com",
+    "domain": "stairgalleries.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Steals.com Layton",
+    "country": "United States",
+    "website": "https://steals.com",
+    "domain": "steals.com",
+    "status": "platform",
+    "coverage_class": "A (Aggregator / Platform)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Stockholms Auktionsverk",
+    "country": "Sweden",
+    "website": "https://www.auktionsverket.com",
+    "domain": "auktionsverket.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Stout Auctions",
+    "country": "United States",
+    "website": "https://www.stoutauctions.com",
+    "domain": "stoutauctions.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Strauss & Co",
+    "country": "South Africa",
+    "website": "https://www.straussart.co.za",
+    "domain": "straussart.co.za",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Strawser Auction Group",
+    "country": "United States",
+    "website": "https://www.strawserauctions.com",
+    "domain": "strawserauctions.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Subastas Online (subastasonline.es)",
+    "country": "Spain",
+    "website": "https://subastasonline.es",
+    "domain": "subastasonline.es",
+    "status": "failing",
+    "coverage_class": "C (Discovery / Broken)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Sunflower Auction",
+    "country": "United States",
+    "website": "https://www.sunflowerauction.com",
+    "domain": "sunflowerauction.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Susanin's Auctions",
+    "country": "United States",
+    "website": "https://www.susanins.com",
+    "domain": "susanins.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Swann Galleries United States swann Swisher Bros. Auction (BidSpirit)",
+    "country": "United States",
+    "website": "https://www.swanngalleries.com",
+    "domain": "swanngalleries.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Sworders",
+    "country": "United Kingdom",
+    "website": "https://www.sworder.co.uk",
+    "domain": "sworder.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Tajan",
+    "country": "France",
+    "website": "https://www.tajan.com",
+    "domain": "tajan.com",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Templum Fine Art",
+    "country": "Spain",
+    "website": "https://templumauctions.com",
+    "domain": "templumauctions.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Tennants",
+    "country": "United Kingdom",
+    "website": "https://www.tennants.co.uk",
+    "domain": "tennants.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "The Potomack Company",
+    "country": "United States",
+    "website": "https://www.potomackcompany.com1120",
+    "domain": "potomackcompany.com1120",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "The Swicegood Group",
+    "country": "United States",
+    "website": "https://www.theswicegoodgroup.com/",
+    "domain": "theswicegoodgroup.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Thomson Roddick",
+    "country": "United Kingdom",
+    "website": "https://www.thomson-roddick.co.uk",
+    "domain": "thomson-roddick.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Tiberius Auctions",
+    "country": "Austria",
+    "website": "https://tiberius-auctions.com",
+    "domain": "tiberius-auctions.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Tiroche",
+    "country": "Israel",
+    "website": "https://www.tiroche.co.il",
+    "domain": "tiroche.co.il",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Toomey & Co. Auctioneers",
+    "country": "United States",
+    "website": "https://toomeyco.com",
+    "domain": "toomeyco.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Toovey's",
+    "country": "United Kingdom",
+    "website": "https://www.toovey-s.co.uk",
+    "domain": "toovey-s.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Trevanion",
+    "country": "United Kingdom",
+    "website": "https://www.trevanion-auctions.co.uk",
+    "domain": "trevanion-auctions.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Tzoffey's 1818",
+    "country": "Israel",
+    "website": "https://www.tzoffeys.com",
+    "domain": "tzoffeys.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "VALOIR POUSSE-CORNET Maison de ventes",
+    "country": "France",
+    "website": "https://poussecornet.com",
+    "domain": "poussecornet.com",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Van Ham",
+    "country": "Germany",
+    "website": "https://www.van-ham.com",
+    "domain": "van-ham.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "VARENNE ENCHERES",
+    "country": "France",
+    "website": "https://www.varenne-encheres.com/",
+    "domain": "varenne-encheres.com",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Veilinghuis Omnia",
+    "country": "Netherlands",
+    "website": "http://veilinghuis-omnia.nl",
+    "domain": "veilinghuis-omnia.nl",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Veilinghuis Peerdeman",
+    "country": "Netherlands",
+    "website": "https://veilinghuispeerdeman.nl/",
+    "domain": "veilinghuispeerdeman.nl",
+    "status": "other",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Veilinghuizen overview (veilingen.nl)",
+    "country": "Netherlands",
+    "website": "https://veilingen.nl",
+    "domain": "veilingen.nl",
+    "status": "failing",
+    "coverage_class": "C (Discovery / Broken)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Venduehuis Dickhaut",
+    "country": "Netherlands",
+    "website": "https://www.venduehuisdickhaut.nl",
+    "domain": "venduehuisdickhaut.nl",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "VERGOS AUCTIONS P.C.",
+    "country": "Greece",
+    "website": "https://vergosauctions.com",
+    "domain": "vergosauctions.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Veritas Art Auctioneers",
+    "country": "Portugal",
+    "website": "https://www.veritas.art",
+    "domain": "veritas.art",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Vermot & Associes",
+    "country": "France",
+    "website": "https://www.vermot-associes.com",
+    "domain": "vermot-associes.com",
+    "status": "ok",
+    "coverage_class": "B-Priority (France Own-Site)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Vilnius Auction",
+    "country": "Lithuania",
+    "website": "https://www.menorinka.lt",
+    "domain": "menorinka.lt",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "VPauto Lyon",
+    "country": "France",
+    "website": "https://www.vpauto.fr/",
+    "domain": "vpauto.fr",
+    "status": "platform",
+    "coverage_class": "A (Aggregator / Platform)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Waddington's Canada",
+    "country": "Canada",
+    "website": "https://www.waddingtons.ca",
+    "domain": "waddingtons.ca",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Wannenes - Art Contact",
+    "country": "Monaco",
+    "website": "https://www.wannenesgroup.com",
+    "domain": "wannenesgroup.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Webb's",
+    "country": "New Zealand",
+    "website": "https://www.webbs.co.nz",
+    "domain": "webbs.co.nz",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Weschler's",
+    "country": "United States",
+    "website": "https://www.weschlers.com",
+    "domain": "weschlers.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Whyte's",
+    "country": "Ireland",
+    "website": "https://www.whytes.ie",
+    "domain": "whytes.ie",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Wickliff Auctioneers",
+    "country": "United States",
+    "website": "https://www.wickliffauctioneers.com",
+    "domain": "wickliffauctioneers.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Widder Auctions",
+    "country": "Austria",
+    "website": "https://www.widderauktionen.com",
+    "domain": "widderauktionen.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Windsor Auctions - U.K.",
+    "country": "United Kingdom",
+    "website": "https://www.windsor-auctions.co.uk",
+    "domain": "windsor-auctions.co.uk",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Winners",
+    "country": "Israel",
+    "website": "https://www.winners-auctions.com",
+    "domain": "winners-auctions.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Woody Auction LLC",
+    "country": "United States",
+    "website": "https://www.woodyauction.com",
+    "domain": "woodyauction.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Woolley & Wallis",
+    "country": "United Kingdom",
+    "website": "https://bid.woolleys.live",
+    "domain": "bid.woolleys.live",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "World Auction Gallery",
+    "country": "United States",
+    "website": "https://www.worldauctiongallery.com",
+    "domain": "worldauctiongallery.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Wright",
+    "country": "United States",
+    "website": "https://www.wright20.com",
+    "domain": "wright20.com",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "www.bidtarter.com",
+    "country": "United States",
+    "website": "https://www.bidtarter.com",
+    "domain": "bidtarter.com",
+    "status": "platform",
+    "coverage_class": "A (Aggregator / Platform)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  },
+  {
+    "name": "Zeller",
+    "country": "Germany",
+    "website": "https://www.zeller-auctions.de",
+    "domain": "zeller-auctions.de",
+    "status": "ok",
+    "coverage_class": "B (Own-Site Direct)",
+    "platform": "Bespoke / CMS",
+    "source": "ArtTracker-Search-Coverage.csv"
+  }
+]

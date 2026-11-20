@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.venv/
+data/tracker.db
+data/tracker.db-shm
+data/tracker.db-wal
+.env
+.DS_Store
+node_modules/
+.next/
+web/.next/
+web/node_modules/
+web/out/

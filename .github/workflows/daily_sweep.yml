@@ -1,0 +1,58 @@
+name: Daily Overseas Sleeper Sweep (3am Brisbane)
+
+on:
+  schedule:
+    - cron: '0 17 * * *'   # 03:00 AEST (UTC+10) year-round
+  workflow_dispatch:
+    inputs:
+      house:
+        description: 'Optional single house name to fetch'
+        required: false
+        default: ''
+      limit:
+        description: 'Max Class-B houses to fetch'
+        required: false
+        default: '50'
+
+permissions:
+  contents: write
+
+jobs:
+  sweep:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run sweep
+        run: |
+          if [ ! -f data/tracker.db ]; then python3 tracker.py --init-db; fi
+          if [ -n "${{ github.event.inputs.house }}" ]; then
+            python3 tracker.py --house "${{ github.event.inputs.house }}"
+          else
+            python3 tracker.py --sweep --limit "${{ github.event.inputs.limit || '50' }}"
+          fi
+
+      - name: Regenerate HTML digest
+        run: python3 tracker.py --report-only
+
+      - name: Copy digest to web public dir
+        run: |
+          mkdir -p web/public
+          cp reports/latest.html web/public/report.html
+
+      - name: Commit & push updated digest
+        run: |
+          git config user.name "au-art-tracker-bot"
+          git config user.email "bot@au-art-tracker.local"
+          git add reports/latest.html web/public/report.html
+          git diff --staged --quiet || git commit -m "chore: daily sweep digest $(date -u +%Y-%m-%d)"
+          git push
